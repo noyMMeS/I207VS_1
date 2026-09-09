@@ -1,0 +1,14 @@
+C:\Users\25300282\source\repos\I-207\Leason1\bin\Debug\net10.0\Leason1.exe
+C:\Users\25300282\source\repos\I-207\Leason1\bin\Debug\net10.0\Leason1.deps.json
+C:\Users\25300282\source\repos\I-207\Leason1\bin\Debug\net10.0\Leason1.runtimeconfig.json
+C:\Users\25300282\source\repos\I-207\Leason1\bin\Debug\net10.0\Leason1.dll
+C:\Users\25300282\source\repos\I-207\Leason1\bin\Debug\net10.0\Leason1.pdb
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.AssemblyInfoInputs.cache
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.AssemblyInfo.cs
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.csproj.CoreCompileInputs.cache
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.dll
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\refint\Leason1.dll
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.pdb
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\Leason1.genruntimeconfig.cache
+C:\Users\25300282\source\repos\I-207\Leason1\obj\Debug\net10.0\ref\Leason1.dll
